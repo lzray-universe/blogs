@@ -1,5 +1,5 @@
 {
-  "name": "radiant-ring",
+  "name": "lzray-blog",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
@@ -21,12 +21,11 @@
     "tailwindcss": "^3.4.1"
   },
   "author": {
-    "name": "yujian xue",
-    "email": "azoux0311@gmail.com"
+    "name": "lzray"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/larry-xue/astro-zen-blog"
+    "url": "https://github.com/lzray/blogs"
   },
   "license": "MIT"
 }
