@@ -17,7 +17,7 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  site: "https://blog.lzray.com/", // your site url
+  site: "https://lzray-universe.github.io/blogs/", // your site url
   title: "lzray's blog",
   slogan: "Sharing thoughts and ideas",
   description: "Personal blog of lzray.",
